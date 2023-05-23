@@ -1,0 +1,21 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+  button{
+    margin-right: 2em;
+  }
+  mat-icon{
+    margin: 0em,3em;
+  }
+  .theme_switch{
+    margin-right: 2em;
+  }
+  .theme_switch .mat-slide-toggle-thumb-content {
+    display: flex;
+    align-items: center;
+  }
+  
+  .theme_switch .mat-slide-toggle-content mat-icon {
+    margin-right: 5px;
+  }
+  
